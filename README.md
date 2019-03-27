@@ -2,17 +2,10 @@
 
 Pasos para inicializar el proyecto:
 
-Instalar python
+Instalar python version >=3.6
 
-$ sudo apt install python3.6
-
-Instalar Django
-
-$ sudo apt install python3-pip -y
-$ which pip3
-$ ln -s /usr/bin/pip3 /usr/bin/pip
-$ pip install Django==2.0.5
+Instalar Django version >=2.0.5
 
 Ya una vez instalado Python y Django, se ejecuta el proyecto
 
-$ python manage.py runserver
+python manage.py runserver
