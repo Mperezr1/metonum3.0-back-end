@@ -1,0 +1,20 @@
+
+  {
+    "name": "webApiUniNinos",
+    "version": "0.0.1",
+    "description": "",
+    "main": "server.js",
+    "engines": {
+      "node": "10.x"
+    },
+    "keywords": [
+      "node",
+      "heroku",
+      "express"
+    ],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/mperezr1/herokuUnininos/issues"
+    }
+}
