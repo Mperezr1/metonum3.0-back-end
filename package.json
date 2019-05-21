@@ -1,14 +1,24 @@
 {
-    "name": "metonum",
-    "version": "0.0.1",
-    "description": "",
-    "main": "server.js",
-    "engines": {
-      "node": "10.x"
-    },
-    "keywords": [
-      "node",
-      "heroku",
-      "express"
-    ]
+  "name": "metonum",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "10.x"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "dependencies": {
+    "bcrypt": "^3.0.6",
+    "cors": "^2.8.5",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "mathjs": "^5.10.3",
+    "mongoose": "^5.5.10",
+    "mongoose-unique-validator": "^2.0.3",
+    "morgan": "^1.9.1"
+  }
 }
