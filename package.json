@@ -1,0 +1,14 @@
+{
+    "name": "metonum",
+    "version": "0.0.1",
+    "description": "",
+    "main": "server.js",
+    "engines": {
+      "node": "10.x"
+    },
+    "keywords": [
+      "node",
+      "heroku",
+      "express"
+    ]
+}
